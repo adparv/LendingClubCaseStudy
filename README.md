@@ -20,18 +20,16 @@ LendingClubCaseStudy
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+Overall, the analysis suggests several key factors that significantly influence the probability of loan default. These factors include the purpose of the loan, income level, interest rates, loan amount, borrower's employment length, verification status, debt-to-income ratio (DTI), loan grade, property ownership status, geographical location, bankruptcy history, and time of loan approval.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- numpy
+- pandas
+- scipy
+  
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
