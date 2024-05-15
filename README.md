@@ -8,10 +8,14 @@ LendingClubCaseStudy
 * [Acknowledgements](#acknowledgements)
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Objective:
+- The goal is to decrease credit loss by employing exploratory data analysis (EDA) techniques to identify the primary factors contributing to loan default.
+
+- Background:
+- The company serves as the premier online loan marketplace, offering personal, business, and medical procedure financing. We prioritize user accessibility and efficiency, providing borrowers with swift access to low-interest loans via our streamlined online platform. However, like many lending institutions, our greatest financial risk stems from lending to applicants deemed 'risky,' as these individuals are most likely to default on their loans, resulting in significant credit loss.
+
+- Approach:
+- To mitigate credit loss, we will conduct EDA to uncover the key drivers behind loan defaults. By analyzing various data points and patterns within our borrower profiles, we aim to identify factors strongly correlated with default behavior. This analysis will guide our strategic decisions in risk assessment, enabling us to refine our lending practices and minimize exposure to default risk.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
